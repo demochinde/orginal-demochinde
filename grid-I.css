@@ -146,7 +146,7 @@ img {
 
 @media only screen and (min-width: 1650px) {
   .grid-container article {
-    border: 1px solid red;
+    border: px solid red;
     position: absolute;
     top: 55%;
     left: 30%;
